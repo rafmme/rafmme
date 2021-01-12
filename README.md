@@ -2,17 +2,17 @@
 <h3 align="center">A passionate, creative and goal-oriented software engineer with drive for excellence and success.</h3>
 
 
-- 🔭 I’m currently working on [US Stock Market Bot Assistant](https://m.fb.com)
+- 🔭 I’m currently working on [Bot Assistant](https://github.com/rafmme/mkt-bot-assistant/)
 
 - 🌱 I’m currently learning [Google IT Support course](https://www.coursera.org/professional-certificates/google-it-support)
 
-- 📝 I regularly write articles on [https://dev.to/rafmme](https://dev.to/rafmme)
+- 📝 I write articles on [https://dev.to/rafmme](https://dev.to/rafmme)
 
-- 💬 Ask me about **JavaScript, React and Python**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **rafmme@gmail.com**
 
-- 📄 Check out my portfolio [https://rafmme.glitch.me](https://rafmme.glitch.me)
+- 📄 Check out my portfolio [https://rafmme.me](https://rafmme.me)
 
 - ⚡ Fun fact: **I love taking road trips**
 
