@@ -2,13 +2,16 @@
 <h3 align="center">A passionate, creative and goal-oriented software engineer with drive for excellence and success.</h3>
 
 
-- 🔭 I’m currently working on [Chat Bot for US Stock Market](https://m.me/LewisTheAssistant)
+- 🔭 I’m currently working on 
+     * [🇳🇬 NG USSD Banking Android App](https://github.com/rafmme/ng-ussd-banking-app/releases/download/v1.0.0/ng-ussd-banking-app.apk)
+     * [Telegram Bot for 🇺🇸 US Stock Market](https://t.me/LewisSMBot)
+     * [FB Messenger Bot for 🇺🇸 US Stock Market](https://m.me/LewisTheAssistant)
 
 - 🌱 I’m currently learning [Google IT Support course](https://www.coursera.org/professional-certificates/google-it-support)
 
-- 📫 How to reach me **rafmme@gmail.com**
+- 📫 How to reach me **timileyin.farayola@gmail.com**
 
-- 📄 Check out my portfolio [Portfolio](https://rafmme.github.io)
+<!-- - 📄 Check out my portfolio [Portfolio](https://rafmme.github.io) -->
 
 - ⚡ Fun fact: **I love taking road trips**
 
